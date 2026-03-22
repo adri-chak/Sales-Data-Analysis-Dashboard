@@ -69,7 +69,7 @@ Sales_Dashboard/
 
 ---
 
-## 💡 Key Takeaways
+## 💡 Key Takeaways 
 - 📈 Revenue grew 51% from 2014 to 2017
 - 🏆 Technology is the highest revenue category
 - 🌍 West region drives the most sales
